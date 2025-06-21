@@ -80,5 +80,6 @@ If you'd like to support this **open-source journey**, [**Sponsor Me on GitHub**
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/azkadev/da830a12192544969ed71c5ce133f00a/raw/achievements.svg" width="100%" />
+  <!-- Ganti achievements SVG dengan alternatif -->
+  <img src="https://github-profile-trophy.vercel.app/?username=LyncxTeams&theme=radical&margin-w=10&margin-h=15" width="100%" />
 </p>
